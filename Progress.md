@@ -8,6 +8,10 @@
 * Learning about **Memory**.
 * Importance of **loops and recursion** and how we use the power of them to solve problems of *Arrays*, *Linked List* and other Data Structures.
 * Begin the concept of **Arrays**, learnt about declaring and initializing an array.
+## 20/08/2021
+* Learnt about declaring and array.
+* Passing values to an array.
+* Learnt about how to build your own logic in solving **sorting an array** problems.
 
 
 
