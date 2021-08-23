@@ -12,7 +12,8 @@
 * Learnt about declaring and array.
 * Passing values to an array.
 * Learnt about how to build your own logic in solving **sorting an array** problems.
-
+## 21/08/2021
+* Attended the **Samsung Bangalore Toastmasters Club Open House Session** on the theme **'Empathy at Workplace'**.
 
 
 
