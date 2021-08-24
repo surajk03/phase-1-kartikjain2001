@@ -18,7 +18,7 @@
 * Learnt about why we should be good at communication and organizing sessions.
 * Starting from the basics about computers, data storage, processors.
 * Revising arrays and learning about **Searching elements in an Array**.
-24/08/2021
+## 24/08/2021
 * Learnt the code for Linear Searching an element in an array
 * A new set of problem in arrays and sub-arrays.
 
