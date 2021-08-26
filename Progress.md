@@ -21,7 +21,10 @@
 ## 24/08/2021
 * Learnt the code for Linear Searching an element in an array
 * A new set of problem in arrays and sub-arrays.
-
+## 25/08/2021
+* Tried modulation to the previous day problem on arrays.
+* Learnt the concept of finding maximum in an array and sub-array
+* Importance of **Dry Run** of a code for self - evaluation.
 
 
 
