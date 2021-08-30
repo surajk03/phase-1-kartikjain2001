@@ -13,7 +13,7 @@
 * Passing values to an array.
 * Learnt about how to build your own logic in solving **sorting an array** problems.
 ## 21/08/2021
-* Attended the **Samsung Bangalore Toastmasters Club Open House Session** on the theme **'Empathy at Workplace'**.
+* Attended the **[Samsung Bangalore Toastmasters Club Open House Session](https://github.com/cleanhand/phase-1-kartikjain2001/blob/main/Communication%20Sessions/Samsung%20Bangalore%20Toastmasters%20Club%20Open%20House%20Session.md)** on the theme **'Empathy at Workplace'**.
 ## 22/08/2021
 * Learnt about why we should be good at communication and organizing sessions.
 * Starting from the basics about computers, data storage, processors.
