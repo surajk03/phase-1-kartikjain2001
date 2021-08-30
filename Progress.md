@@ -25,6 +25,18 @@
 * Tried modulation to the previous day problem on arrays.
 * Learnt the concept of finding maximum in an array and sub-array
 * Importance of **Dry Run** of a code for self - evaluation.
+## 26 / 08 / 2021
+* A new type of problem on arrays. *Finding a subsidiary array of a given array having the degree of divisibility of each element in the given array*.
+* [VisualAlgo](https://visualgo.net/en/sorting) to visualise the working of sorting algorithm.
+## 27 / 08 / 2021
+## 28 / 08 / 2021
+* Searching about the ways a TMOD works.
+* Finishing the script of TMOD role for 29 / 08 / 2021 session.
+## 29 / 08 / 2021
+* Third AlgoMagnet Session on the theme **Stories defines us**.
+## 30 / 08 / 2021
+* Discussion on Two - pointer problem.
+* Discussion on Sliding Window problem.
 
 
 
