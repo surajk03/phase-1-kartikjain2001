@@ -37,6 +37,13 @@
 ## 30 / 08 / 2021
 * Discussion on Two - pointer problem.
 * Discussion on Sliding Window problem.
+## 31 / 08 / 2021
+* Read about *'File Handling'* , *'Zipping of files using C language'* , *'pseudocode convention'*.
+* Very good book on algorithm *'[Introduction to Algorithm](https://web.iiit.ac.in/~pratik.kamble/storage/Algorithms/Cormen_Algorithms_3rd.pdf)'* by *Pratik Kamble*.
+* Problems on arrays
+  1. Merging two sorted arrays into one single sorted array.
+  2. *'Pivot problem'* or arranging an array with a pivot element and arranging the elements less than it to the left and the elements greater than it to the right.
+  3. Arranging an array of characters with just a few different elemets.
 
 
 
