@@ -29,7 +29,23 @@ printf (“\n);
 fclose(fp); /* fclose is the function used to close the file */
 }
 ```
-
+## Opening or Creating a File
+* We use the function **fopen** to open a file with required access modes.
+* Modes provide different type of access to the file. Like **"r"** mode used in the above code let us read the content of the file.
+ ### File Opening Modes in C
+ * **r** - This mode is used to open a file **for reading in text format**. The file is searched and if the file is opened successfully, fopen loads it in the memory and sets a pointer which points to the first character of the file.
+ * **rb** - This mode is used to open a file  *for reading in binary mode*.
+ * **w** - This mode is used to open a file, *overwrite its content by writing new one*.
+ * **wb** - This mode is used to open a file *for writing in binary mode.*
+ * **a** - This mode is used to open a file *to start writting new content from the end of the file.*
+ * **ab** - This mode is used to open a file *to start writting new content from the end of the file, but in binary form.*
+ * **r+** - This mode is used to open a file *for reading and writing both*. The pointer is set up at the start of the first character in this too just like in *r* mode.
+ * **rb+** - This mode is used to open a file *for reading and writing both*. The pointer is set up at the start of the first character in this too just like in *rb* mode *but, in binary mode.*
+ * **w+** - This mode is used to open a file *for writing and reading*. The existing file is overwritten.
+ * **wb+** - This mode is used to open a file *for writing and reading*. The existing file is overwritten *but, in binary mode.*
+ * **a+** - This mode is used to open a file *to start writing new content from the end of the file and also to read the contents of the file.*
+ * **ab+** - This mode is used to open a file *to start writing new content from the end of the file and also to read the contents of the file but, in binary mode*
+ 
 
 
 
