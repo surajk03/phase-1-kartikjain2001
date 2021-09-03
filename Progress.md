@@ -44,6 +44,11 @@
   1. Merging two sorted arrays into one single sorted array.
   2. *'Pivot problem'* or arranging an array with a pivot element and arranging the elements less than it to the left and the elements greater than it to the right.
   3. Arranging an array of characters with just a few different elemets.
+## 01 / 09 / 2021
+* Attended **Jakarta Toastmaster Club** on the theme **Self - Mastery** 
+## 02 / 09 / 2021
+* Learnt about max Heap.
+* Discussion on the pivot element problem.
 
 
 
