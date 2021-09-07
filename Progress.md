@@ -49,6 +49,14 @@
 ## 02 / 09 / 2021
 * Learnt about max Heap.
 * Discussion on the pivot element problem.
+## 03 / 09 / 2021
+* Learning the algorithm on Partition Problems in Array.
+## 04 / 09 / 2021
+* Learnt how to operate and use functions present in zoom.
+## 05 / 09 / 2021
+* AlgoMagnet Communication Session number 4 based on *'Teacher's Day theme'* with **Dr. Suman Deb** as the **Chief Guest**
+## 06 / 09 / 2021
+* Started 2-D arrays.
 
 
 
