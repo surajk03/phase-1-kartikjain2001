@@ -57,6 +57,9 @@
 * AlgoMagnet Communication Session number 4 based on *'Teacher's Day theme'* with **Dr. Suman Deb** as the **Chief Guest**
 ## 06 / 09 / 2021
 * Started 2-D arrays.
+## 07 / 09 / 2021
+* Discussed about 2-D arrays in detail.
+* Discussed about the visualisation of 3-D arrays.
 
 
 
