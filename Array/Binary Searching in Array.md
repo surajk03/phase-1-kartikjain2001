@@ -7,7 +7,7 @@ Find if the element input by the user is present in the given array and if, ment
 # Approach
 * For the given array, sort it into ascending order.
 * We consider the 0 index to be the start and ‘size_of_array - 1’ index to be the ending and find the middle element using the formula 
-‘ Middle = start + (ending - start)/2 ‘
+*‘ Middle = start + (ending - start)/2 ‘*
 * If the middle  = element, we found the element.
 * If middle > element, the element must now lie to the left to the middle element. So, we edit the ending as middle – 1 with starting being 0.
 * If middle < element, the element must now lie to the right to the middle element. So, we edit the starting as middle + 1, ending being ‘size_of_array - 1’.
