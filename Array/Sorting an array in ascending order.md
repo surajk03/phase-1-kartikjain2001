@@ -1,3 +1,19 @@
+# Topic
+Bubble Sort an array 
+# Question
+For a given array, sort it into ascending order
+# Approach
+
+**For the given array**
+
+* We start by comparing the first element of the array with the next one.
+    * If it is greater than the next element, we swap both the elements. 
+    * If it is not greater than the next element, we do nothing and move to the next element.
+* In the same fashion, we check all the element in the given array.
+* In the end all the elements are arranged in an ascending order.
+
+# Code
+
 ```
 #include <stdio.h>
 void swap (int * , int *);
