@@ -60,6 +60,9 @@
 ## 07 / 09 / 2021
 * Discussed about 2-D arrays in detail.
 * Discussed about the visualisation of 3-D arrays.
+## 08 / 09 / 2021
+* Studying about **character arrays** and **strings**.
+* Revising functions.
 
 
 
