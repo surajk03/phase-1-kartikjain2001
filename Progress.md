@@ -63,10 +63,10 @@
 ## 08 / 09 / 2021
 * Studying about **character arrays** and **strings**.
 * Revising functions.
-09 / 09 / 2021
+## 09 / 09 / 2021
 * Studied about Structures in C.
 * Discussed about Memory Allocation.
-10 / 09 / 2021
+## 10 / 09 / 2021
 * Learnt about **Dynamic Memory Allocation**, library function **malloc()**
 * Read documents on calloc() and realloc functions.
 * Learnt the structure of a Linked List.
