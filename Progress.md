@@ -70,6 +70,10 @@
 * Learnt about **Dynamic Memory Allocation**, library function **malloc()**
 * Read documents on calloc() and realloc functions.
 * Learnt the structure of a Linked List.
+## 11 / 09 / 2021
+* Studied about library functions malloc() , calloc() and realloc().
+## 12 / 09 / 2021
+* Fifth AlgoMagnet Communication Session with Chief Guest being the alumni of NIT Agartala, **Dr. Arijit Senchaudhari.**
 
 
 
