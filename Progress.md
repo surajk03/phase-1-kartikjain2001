@@ -75,6 +75,11 @@
 ## 12 / 09 / 2021
 * Fifth AlgoMagnet Communication Session with Chief Guest being the alumni of NIT Agartala, **Dr. Arijit Senchaudhari.**
 
+## 13 / 09 / 2021
+* Importance of **Open Source Guides** and how to utilize it.
+* Discussion on **Google Summer of Codes **.
+* Learning about **Agile Methodology**.
+
 
 
 
