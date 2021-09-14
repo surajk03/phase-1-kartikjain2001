@@ -1,4 +1,4 @@
-## What is Open Source ❓
+## What is [Open Source](https://opensource.com/resources/what-open-source) ❓
 
 ![open source 1](https://user-images.githubusercontent.com/74143496/133298536-dc49eb63-ef75-4396-bc75-7815817a4103.jpg)
 
@@ -10,7 +10,7 @@
 
 * Open Source Softwares are softwares whose Source Code can be inspected, modified and enhanced by anyone in the community.
 * The source code is made by the programmers and shared to people who can view, copy and alter the code to make it better and share it. 
-* LibreOffice , GNU Image Manipulation Program are the examples of Open Source Software.
+* [LibreOffice](https://www.libreoffice.org/) , [GNU Image Manipulation Program](https://www.gimp.org/) are the examples of Open Source Software.
 > A good example is how when we use our local device to  view web pages, emails , chat, stream videos or play games on internet, data is routed and transmitted to our local device using Open Source Software.
 ![open source 3](https://user-images.githubusercontent.com/74143496/133300794-c539db4c-e559-416e-97b8-9a23769ad2ec.png)
 
