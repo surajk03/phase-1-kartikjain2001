@@ -67,18 +67,18 @@
 * Studied about Structures in C.
 * Discussed about Memory Allocation.
 ## 10 / 09 / 2021
-* Learnt about **Dynamic Memory Allocation**, library function **malloc()**
+* Learnt about **[Static and Dynamic Memory Allocation](https://github.com/cleanhand/phase-1-kartikjain2001/blob/main/Static%20Memory%20Allocation%20and%20Dynamic%20Memory%20Allocation.md)**, library function **malloc()**
 * Read documents on calloc() and realloc functions.
 * Learnt the structure of a Linked List.
 ## 11 / 09 / 2021
 * Studied about library functions malloc() , calloc() and realloc().
 ## 12 / 09 / 2021
-* Fifth AlgoMagnet Communication Session with Chief Guest being the alumni of NIT Agartala, **Dr. Arijit Senchaudhari.**
+* [Fifth AlgoMagnet Communication Session](https://github.com/cleanhand/phase-1-kartikjain2001/blob/main/Communication%20Sessions/Fifth%20AlgoMagnet%20Communication%20Session.md) with Chief Guest being the alumni of NIT Agartala, **Dr. Arijit Senchaudhari.**
 
 ## 13 / 09 / 2021
 * Importance of **Open Source Guides** and how to utilize it.
-* Discussion on **Google Summer of Codes **.
-* Learning about **Agile Methodology**.
+* Discussion on **Google Summer of Codes**.
+* Learning about **[Agile Methodology](https://github.com/cleanhand/phase-1-kartikjain2001/blob/main/Agile%20Methodology/Agile%20Methodology.md)**.
 
 
 
