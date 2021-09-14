@@ -76,7 +76,7 @@
 * [Fifth AlgoMagnet Communication Session](https://github.com/cleanhand/phase-1-kartikjain2001/blob/main/Communication%20Sessions/Fifth%20AlgoMagnet%20Communication%20Session.md) with Chief Guest being the alumni of NIT Agartala, **Dr. Arijit Senchaudhari.**
 
 ## 13 / 09 / 2021
-* Importance of **Open Source Guides** and how to utilize it.
+* Importance of **[Open Source Guides](https://github.com/cleanhand/phase-1-kartikjain2001/blob/main/Open%20Source%20Guide/Open%20Source%20.md)** and how to utilize it.
 * Discussion on **Google Summer of Codes**.
 * Learning about **[Agile Methodology](https://github.com/cleanhand/phase-1-kartikjain2001/blob/main/Agile%20Methodology/Agile%20Methodology.md)**.
 ## 14 / 09 / 2021
