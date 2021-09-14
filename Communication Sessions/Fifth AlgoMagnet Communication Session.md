@@ -1,6 +1,7 @@
 # AlgoMagnet Communication Session 
 Another successfull event conducted by the AlgoMagnet team ✊ under the supervision of **Ankit Sir**, bringing the alumni of NIT Agartala, director at [VIS Global pty Ltd](https://www.visglobal.com.au/), **Dr. Arijit Senchaudhari** as the **Chief Guest** for today's session.
 
+
 ![dr arijit senchaudhari](https://user-images.githubusercontent.com/74143496/133080855-66742195-7aa0-4ea8-8729-8c4cea715c09.jpg)
 
 
@@ -43,8 +44,22 @@ The theme for today's session was **How Alumni can contribute and impact our AM 
 * AMOD introduces the Master of the Ceremony, Ankit sir on the virtual stage.
 * Ankit sir gives the audience another chance to ask any questions they have for Arijit sir before the conclusion of the session.
 * With another round of questions and answers with Arijit Sir, the session concludes with a victory photo.
-![12 - 09 - 2021](https://user-images.githubusercontent.com/74143496/133081633-d8e30aad-c232-4da6-bf56-09a9bb77ea6a.jpeg)
 
+
+## Takeaways
+* As I became the speech evaluator for the second time, I could sense the improvement in my analogy on evaluating people's speeches. Rather than focussing on each and every sentence and targetting just the speaker, I tried my best to present my evaluation in such a way that not only the speaker but the audience is able to learn something from it. 
+* Every single role contributes to the success of the event and it is not the amount of time you spend on the stage but the impact you make while you are on stage.
+* Biggest hurdle for Innovation is not asking questions and fear of failing.
+* Empathy , Focus and Resilience are the qualities one must have to engage in a team and prove efficient at workplace.
+
+## Suggestions and Remarks for next meeting
+* The Timer should also be in the spot - light when a prepared speakr, table topic speaker or any other speaker is speaking. This way, he / she could keep track of the time in a better way.
+* Timer and Ah - counter reports can be presented in a more descriptive way, picking out key points from the graphs and asking the audience to take screenshots to keep their own record.
+
+
+![12 - 09 - 2021](https://user-images.githubusercontent.com/74143496/133081633-d8e30aad-c232-4da6-bf56-09a9bb77ea6a.jpeg)
+>                                             AlgoMagnet Team flaunting another success 😄
+********
 
 
 
