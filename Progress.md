@@ -65,13 +65,13 @@
 * Revising functions.
 ## 09 / 09 / 2021
 * Studied about Structures in C.
-* Discussed about Memory Allocation.
+* Discussed about [Memory Allocation](https://github.com/cleanhand/phase-1-kartikjain2001/blob/main/Static%20Memory%20Allocation%20and%20Dynamic%20Memory%20Allocation.md).
 ## 10 / 09 / 2021
 * Learnt about **[Static and Dynamic Memory Allocation](https://github.com/cleanhand/phase-1-kartikjain2001/blob/main/Static%20Memory%20Allocation%20and%20Dynamic%20Memory%20Allocation.md)**, library function **malloc()**
 * Read documents on calloc() and realloc functions.
 * Learnt the structure of a Linked List.
 ## 11 / 09 / 2021
-* Studied about library functions malloc() , calloc() and realloc().
+* Studied about library functions [malloc() , calloc() and realloc()](https://github.com/cleanhand/phase-1-kartikjain2001/blob/main/Linked%20List/Dynamic%20Memory%20Allocation%20functions.md).
 ## 12 / 09 / 2021
 * [Fifth AlgoMagnet Communication Session](https://github.com/cleanhand/phase-1-kartikjain2001/blob/main/Communication%20Sessions/Fifth%20AlgoMagnet%20Communication%20Session.md) with Chief Guest being the alumni of NIT Agartala, **Dr. Arijit Senchaudhari.**
 
