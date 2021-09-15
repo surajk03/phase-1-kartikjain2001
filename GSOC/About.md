@@ -3,7 +3,7 @@
 
 ## What is GSOC ❓
 
-🌟 Global Summer of Code (GSOC) is a global program launched in 2005 by one of Google's co - founders with the vision to bring students and mentors to contribute to open source softwares, imporve the quality of the software while learning and improving their development skills.
+🌟 [Global Summer of Code (GSOC)](https://summerofcode.withgoogle.com/about/) is a global program launched in 2005 by one of Google's co - founders with the vision to bring students and mentors to contribute to open source softwares, imporve the quality of the software while learning and improving their development skills.
 
 🌟 The students works on a 10 week programming project with an open source organization between their semester breaks, earning stipend 🧐 and working on their areas of interest.
 
