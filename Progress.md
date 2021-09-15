@@ -80,7 +80,7 @@
 * Discussion on **[Google Summer of Codes](https://github.com/cleanhand/phase-1-kartikjain2001/blob/main/GSOC/About.md)**.
 * Learning about **[Agile Methodology](https://github.com/cleanhand/phase-1-kartikjain2001/blob/main/Agile%20Methodology/Agile%20Methodology.md)**.
 ## 14 / 09 / 2021
-* An interactive session with NIT Agartala Alumni in Bocconi University , Milan , Italy.
+* An [interactive session](https://github.com/cleanhand/phase-1-kartikjain2001/blob/main/Communication%20Sessions/NITA%20Alumni%20from%20Bocconi%20University%20%2C%20Milan%20%2C%20Italy.md) with NIT Agartala Alumni in Bocconi University , Milan , Italy.
 
 
 
