@@ -77,7 +77,7 @@
 
 ## 13 / 09 / 2021
 * Importance of **[Open Source Guides](https://github.com/cleanhand/phase-1-kartikjain2001/blob/main/Open%20Source%20Guide/Open%20Source%20.md)** and how to utilize it.
-* Discussion on **Google Summer of Codes**.
+* Discussion on **[Google Summer of Codes](https://github.com/cleanhand/phase-1-kartikjain2001/blob/main/GSOC/About.md)**.
 * Learning about **[Agile Methodology](https://github.com/cleanhand/phase-1-kartikjain2001/blob/main/Agile%20Methodology/Agile%20Methodology.md)**.
 ## 14 / 09 / 2021
 * An interactive session with NIT Agartala Alumni in Bocconi University , Milan , Italy.
