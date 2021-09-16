@@ -85,6 +85,9 @@
 ## 15 / 09 / 2021
 * Learnt about **[Issues](https://docs.github.com/en/issues/tracking-your-work-with-issues/about-issues)** on Github.
 * How to work on a project using Github features.
+## 16 / 09 / 2021
+* Revising functions and recursion
+* Studied about Linked List, understanding from basics, creating first linked list.
 
 
 
