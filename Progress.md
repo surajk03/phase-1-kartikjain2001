@@ -81,7 +81,9 @@
 * Learning about **[Agile Methodology](https://github.com/cleanhand/phase-1-kartikjain2001/blob/main/Agile%20Methodology/Agile%20Methodology.md)**.
 ## 14 / 09 / 2021
 * An [interactive session](https://github.com/cleanhand/phase-1-kartikjain2001/blob/main/Communication%20Sessions/NITA%20Alumni%20from%20Bocconi%20University%20%2C%20Milan%20%2C%20Italy.md) with NIT Agartala Alumni in Bocconi University , Milan , Italy.
-
+## 15 / 09 / 2021
+* Learnt about **[Issues](https://docs.github.com/en/issues/tracking-your-work-with-issues/about-issues)** on Github.
+* How to work on a project using Github features.
 
 
 
