@@ -69,7 +69,7 @@
 ## 10 / 09 / 2021
 * Learnt about **[Static and Dynamic Memory Allocation](https://github.com/cleanhand/phase-1-kartikjain2001/blob/main/Static%20Memory%20Allocation%20and%20Dynamic%20Memory%20Allocation.md)**, library function **malloc()**
 * Read documents on calloc() and realloc functions.
-* Learnt the structure of a Linked List.
+* Learnt the [structure of a Linked List](https://github.com/cleanhand/phase-1-kartikjain2001/blob/main/Linked%20List/Structure%20of%20Linked%20List.md).
 ## 11 / 09 / 2021
 * Studied about library functions [malloc() , calloc() and realloc()](https://github.com/cleanhand/phase-1-kartikjain2001/blob/main/Linked%20List/Dynamic%20Memory%20Allocation%20functions.md).
 ## 12 / 09 / 2021
@@ -84,10 +84,10 @@
 * An [interactive session](https://github.com/cleanhand/phase-1-kartikjain2001/blob/main/Communication%20Sessions/NITA%20Alumni%20from%20Bocconi%20University%20%2C%20Milan%20%2C%20Italy.md) with NIT Agartala Alumni in Bocconi University , Milan , Italy.
 ## 15 / 09 / 2021
 * Learnt about **[Issues](https://docs.github.com/en/issues/tracking-your-work-with-issues/about-issues)** on Github.
-* How to work on a project using Github features.
+* How to work on a project using [Github features](https://docs.github.com/en/get-started/quickstart).
 ## 16 / 09 / 2021
 * Revising functions and recursion
-* Studied about Linked List, understanding from basics, creating first linked list.
+* Studied about [Linked List, understanding from basics, creating first linked list](https://github.com/cleanhand/phase-1-kartikjain2001/blob/main/Linked%20List/Structure%20of%20Linked%20List.md).
 
 
 
