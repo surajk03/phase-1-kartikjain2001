@@ -51,5 +51,15 @@ void main()
 }
 
 ```
+we can also declare a pointer and use it to point to variables
+```
+struct student* ptr;                      /*declaring a pointer varaible 'ptr' or type 'struct student'*/
+ptr = &student1;                          /* ptr now stores the address of variable &student1 or points to the variable student1*/
+
+/*now we can access the members of the variavle student1 using arrow operator '->'*/
+
+printf ("%d\n", ptr -> student1);
+```
+
 
 
