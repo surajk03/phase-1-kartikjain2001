@@ -88,6 +88,9 @@
 ## 16 / 09 / 2021
 * Revising functions and recursion
 * Studied about [Linked List, understanding from basics, creating first linked list](https://github.com/cleanhand/phase-1-kartikjain2001/blob/main/Linked%20List/Structure%20of%20Linked%20List.md).
+## 17 / 09 / 2021
+* Learnt about traversing through all the nodes in a Linked List.
+* Inserting and Deleting nodes in Linked List.
 
 
 
