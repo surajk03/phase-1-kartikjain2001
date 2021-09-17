@@ -1,3 +1,4 @@
+# Where to begin ❔
 The primary question which comes to the mind of people after understanding what is an Open Source, its features and importance.
 
 How can I be the part of an Open Source project, how to approach the right project , how to work in it , make changes and get your ammendments accepted.
@@ -11,7 +12,7 @@ Before that , we need to look what type of contributions are needed in an Open S
 
 Yes, it is a part of contributing , but a project is made successfull by accumulating many different aspects.
 
-You can contribute by
+### You can contribute by 🧑‍💼
 * planning meetings and workshops for discussions.
 * designing logos and merch for the product
 * handling the social media pages for the product
@@ -24,7 +25,7 @@ You can contribute by
 
 You need to understand what you are good at and how can you apply your skill in the project.
 
-##Preparing for a new project
+## Preparing for a new project
 
 Starting with a new project is like working in a whole new organization with their own way of working , thinking and approach to situations.
 
