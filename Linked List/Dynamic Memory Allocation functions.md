@@ -60,13 +60,67 @@ printf ("%d\n", *ptr);
 }
 ```
 🌟**Calloc()**
-**Calloc()** or **contigous allocation** is a library function and is used to allocate a contigous block of memory in the heap.
+
+**Calloc()** or **contigous allocation** is a library function and is used to allocate a specified number of blocks of contigous block of memory in the heap.
 
 Calloc function works in the same manner as Malloc function. It gives instruction to check if there is a congtigous memory available for desired size.
 * If yes, it is assigned the memory or a pointer of type void which can be type casted to any other type of pointer as per the requirement
 * It not , it returns NULL
 
-🔴Calloc always returns a 
+🔴Calloc always returns a specified number of blocks (given by the programmer).
+
+🔴Calloc initializes each block with a defalut value '0'.
+
+### Syntax of calloc()
+```
+int* ptr;
+(typecast* ) calloc(n,sizeof(type);       /* synntax */
+ptr = (typecast* ) calloc(n,sizeof(type);
+/* n is the number of elements which are specified by the programmer */
+```
+### Understanding the syntax
+The terms used in the syntax of calloc function have the same inplication as used in malloc function.
+
+The visible difference is the use of **'(n,sizeof(type))'**.
+
+As we said that calloc function is used to allocate specified number of blocks of memory of specified type. *'n'* determines the number of blocks which are needed by the programmer.
+
+The same can be done in malloc using malloc *'(n*sizeof(type))'*. But, while malloc will allocate a single memory block of size (n*type) , calloc will allocate n number of blocks of size (type).
+
+> This also marks the difference between the both functions.
+
+### Allocating memory Dynamically and inserting data
+
+```
+#include <stdio.h>
+#include<stdlib.h>
+
+void main()
+{
+    int i;
+    int n;
+    int* ptr;
+    (int* )calloc(n,sizeof(int));
+    ptr = (int* )calloc(n,sizeof(int));
+
+    printf("Enter the value of n: ");
+    scanf("%d", &n);
+
+    for(i = 0 ; i <= n-1 ;i++)
+    {
+        *(ptr + i) = i + 1;
+    }
+    for(i = 0 ; i <= n-1 ;i++)
+    {
+        printf ("%d\n",*(ptr + i));
+    }
+
+
+
+}
+```
+
+
 
 
 
