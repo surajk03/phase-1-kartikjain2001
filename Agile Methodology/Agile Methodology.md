@@ -17,7 +17,7 @@
   
       ⭐	Development with customer needs and company goals.
   
-Agile development refers to any development that aligns with the concept of Agile Manifesto.
+▶️Agile development refers to any development that aligns with the concept of **Agile Manifesto.**
 
 ## Agile Manifesto
 
@@ -51,9 +51,9 @@ A team works in Sprint under three periods
 > [Product Backlog and Sprint Backlog](https://www.projectmanager.com/blog/product-backlog-sprint-backlog) 🤔
 ### Roles in a Scrum Framework
 A Scrum team is self - organizing but still it is needed to have a couple of roles to see that the work is being done to fulfil the final product.
-#### Scrum - Master : It is not a manager who gives day - to - day tasks but checks that the team works without distraction and helping the members to achieve their own goal set in each sprint.
-#### Product Owner : The Product Owner maintains the product backlog and help prioritizing tasks to be done for the team so that the products takes the shape in a good way and the team goes in the right direction.
-#### Scrum Project Management : This comprises the whole team who works on day - to - day tasks designing each sprint in such a way that they move forward towards the final goal.
+#### 1️⃣ Scrum - Master : It is not a manager who gives day - to - day tasks but checks that the team works without distraction and helping the members to achieve their own goal set in each sprint.
+#### 2️⃣ Product Owner : The Product Owner maintains the product backlog and help prioritizing tasks to be done for the team so that the products takes the shape in a good way and the team goes in the right direction.
+#### 3️⃣ Scrum Project Management : This comprises the whole team who works on day - to - day tasks designing each sprint in such a way that they move forward towards the final goal.
 
 
 A analogy which is helpful to understand these roles is that of a racecar.
