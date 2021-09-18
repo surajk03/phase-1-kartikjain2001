@@ -8,11 +8,11 @@ How can I be the part of an Open Source project, how to approach the right proje
 
 Before that , we need to look what type of contributions are needed in an Open Source Project
 
-⏰⏰⏰It is not that you can contribute in the form of codes to a project only⏰⏰⏰
+> ⏰⏰⏰It is not that you can contribute in the form of codes to a project only⏰⏰⏰
 
 Yes, it is a part of contributing , but a project is made successfull by accumulating many different aspects.
 
-### You can contribute by 🧑‍💼
+## You can contribute by 🧑‍💼
 * planning meetings and workshops for discussions.
 * designing logos and merch for the product
 * handling the social media pages for the product
@@ -25,7 +25,7 @@ Yes, it is a part of contributing , but a project is made successfull by accumul
 
 You need to understand what you are good at and how can you apply your skill in the project.
 
-## Preparing for a new project
+## Preparing for a new project 📽️
 
 Starting with a new project is like working in a whole new organization with their own way of working , thinking and approach to situations.
 
@@ -33,19 +33,19 @@ You need to understand their way of working things to blend in with them and wor
 
 However , many open source follows a similar structure to minimise hassle for people working on different projects and have a standard management heirarchy
 
-**Author** - The people who created the project 
+⭐**Author** - The people who created the project 
 
-**Owner** - The people who have the administrative ownership over the project
+⭐**Owner** - The people who have the administrative ownership over the project
 
-**Maintainers** - Contributors responsible for driving the vision and managing the organizational aspects of the project.
+⭐**Maintainers** - Contributors responsible for driving the vision and managing the organizational aspects of the project.
 
-**Contributors** - People who have contributed to the project in any way.
+⭐**Contributors** - People who have contributed to the project in any way.
 
-**Community Member** - People who use the project.
+⭐**Community Member** - People who use the project.
 
 
 
-## Finding a project
+## Finding a project 🕵️
 
 If you’ve never contributed to open source before, take some advice from U.S. President John F. Kennedy, who once said, 
 > “Ask not what your country can do for you - ask what you can do for your country.”
