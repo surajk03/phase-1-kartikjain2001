@@ -91,7 +91,10 @@
 ## 17 / 09 / 2021
 * Learnt about traversing through all the nodes in a Linked List.
 * Inserting and Deleting nodes in Linked List.
-
+## 18 / 09 / 2021
+* Learnt about traversing through nodes in a linked list.
+* Read documentations on Open Source.
+* Read about the role of **Ah - Counter** and how to do well in their report.
 
 
 
