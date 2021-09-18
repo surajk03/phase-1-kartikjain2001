@@ -46,3 +46,28 @@ The syntax is well – sorted to fulfil all these things.
            
 But, assigning them each time can be a bit confusing and increase the workload. So, we use [sizeof](https://www.tutorialspoint.com/sizeof-operator-in-c) operator to assign the size of the data type we want.
 
+### Allocating memory Dynamically and inserting data
+```
+#include<stdio.h>
+#include<stdlib.h>
+void main()
+{
+int* ptr;
+ptr = (int* )malloc(sizeof(int));        /*ptr pointer start pointing to the memory block of 4 bytes */
+*ptr = 10;                               /*'10' is stored in that memory block dynamically*/
+
+printf ("%d\n", *ptr);
+}
+```
+🌟**Calloc()**
+**Calloc()** or **contigous allocation** is a library function and is used to allocate a contigous block of memory in the heap.
+
+Calloc function works in the same manner as Malloc function. It gives instruction to check if there is a congtigous memory available for desired size.
+* If yes, it is assigned the memory or a pointer of type void which can be type casted to any other type of pointer as per the requirement
+* It not , it returns NULL
+
+🔴Calloc always returns a 
+
+
+
+
