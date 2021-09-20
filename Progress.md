@@ -89,13 +89,14 @@
 * Revising functions and recursion
 * Studied about [Linked List, understanding from basics, creating first linked list](https://github.com/cleanhand/phase-1-kartikjain2001/blob/main/Linked%20List/Structure%20of%20Linked%20List.md).
 ## 17 / 09 / 2021
-* Learnt about traversing through all the nodes in a Linked List.
+* Learnt about [traversing through all the nodes in a Linked List](https://github.com/cleanhand/phase-1-kartikjain2001/blob/main/Linked%20List/Traversing%20through%20the%20nodes%20in%20a%20Linked%20List.md).
 * Inserting and Deleting nodes in Linked List.
 ## 18 / 09 / 2021
-* Learnt about traversing through nodes in a linked list.
-* Read documentations on Open Source.
+* Learnt about [traversing through nodes in a linked list](https://github.com/cleanhand/phase-1-kartikjain2001/blob/main/Linked%20List/Traversing%20through%20the%20nodes%20in%20a%20Linked%20List.md).
+* Read documentations on [Open Source](https://github.com/cleanhand/phase-1-kartikjain2001/tree/main/Open%20Source%20Guide).
 * Read about the role of **Ah - Counter** and how to do well in their report.
-
+## 19 /09 / 2021
+* Sixth AlgoMagnet Communication session with Chief Guest being **Rajat Mittal**.
 
 
 
