@@ -63,6 +63,7 @@
 ## 08 / 09 / 2021
 * Studying about **character arrays** and **strings**.
 * Revising functions.
+* Research about [Charpak Lab Scholarship](https://github.com/cleanhand/phase-1-kartikjain2001/blob/main/Internships%20Programs/Charpak%20Lab%20Scholarship.md)
 ## 09 / 09 / 2021
 * Studied about [Structures](https://github.com/cleanhand/phase-1-kartikjain2001/blob/main/Linked%20List/Structures.md) in C.
 * Discussed about [Memory Allocation](https://github.com/cleanhand/phase-1-kartikjain2001/blob/main/Static%20Memory%20Allocation%20and%20Dynamic%20Memory%20Allocation.md).
