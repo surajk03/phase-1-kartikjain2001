@@ -96,7 +96,7 @@
 * Read documentations on [Open Source](https://github.com/cleanhand/phase-1-kartikjain2001/tree/main/Open%20Source%20Guide).
 * Read about the role of **Ah - Counter** and how to do well in their report.
 ## 19 /09 / 2021
-* Sixth AlgoMagnet Communication session with Chief Guest being **Rajat Mittal**.
+* [Sixth AlgoMagnet Communication session](https://github.com/cleanhand/phase-1-kartikjain2001/blob/main/Communication%20Sessions/Sixth%20AlgoMagnet%20Communication%20Session.md) with Chief Guest being **Rajat Mittal**.
 
 
 
