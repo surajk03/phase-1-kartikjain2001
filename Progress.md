@@ -103,7 +103,7 @@
 * Attended a session on **Career Abroad** by **Mr. Sumit Sharma** NIT Agartala Alumni and MBA from MIT Solan School of Management.
 ## 21 / 09 / 2021
 * Palindrome Linked List problem.
-* Reversing an array , rotation of an array.
+* Reversing an array , [rotation of an array](https://github.com/cleanhand/phase-1-kartikjain2001/blob/main/Array/Rotation%20of%20an%20array%20by%20'k'%20times%20.c).
 * Reversing a Linked List.
 
 
