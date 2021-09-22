@@ -101,6 +101,10 @@
 ## 20 / 09 / 2021
 * Inserting nodes in a Linked List at [beginning](https://github.com/cleanhand/phase-1-kartikjain2001/blob/main/Linked%20List/Inserting%20Nodes%20in%20a%20Linked%20List.c) , end and any other position.
 * Attended a session on **Career Abroad** by **Mr. Sumit Sharma** NIT Agartala Alumni and MBA from MIT Solan School of Management.
+## 21 / 09 / 2021
+* Palindrome Linked List problem.
+* Reversing an array , rotation of an array.
+* Reversing a Linked List.
 
 
 
