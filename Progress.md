@@ -99,7 +99,7 @@
 ## 19 /09 / 2021
 * [Sixth AlgoMagnet Communication session](https://github.com/cleanhand/phase-1-kartikjain2001/blob/main/Communication%20Sessions/Sixth%20AlgoMagnet%20Communication%20Session.md) with Chief Guest being **Rajat Mittal**.
 ## 20 / 09 / 2021
-* Inserting nodes in a Linked List at [beginning](https://github.com/cleanhand/phase-1-kartikjain2001/blob/main/Linked%20List/Inserting%20Nodes%20in%20a%20Linked%20List.c) , end and any other position.
+* Inserting nodes in a Linked List at [beginning](https://github.com/cleanhand/phase-1-kartikjain2001/blob/main/Linked%20List/Inserting%20Nodes%20in%20a%20Linked%20List.c) , [end](https://github.com/cleanhand/phase-1-kartikjain2001/blob/main/Linked%20List/Inserting%20a%20node%20in%20the%20end%20in%20a%20Linked%20List.c) and [any other position](https://github.com/cleanhand/phase-1-kartikjain2001/blob/main/Linked%20List/Inserting%20a%20node%20in%20between%20two%20nodes%20in%20a%20Linked%20List.c).
 * Attended a session on **Career Abroad** by **Mr. Sumit Sharma** NIT Agartala Alumni and MBA from MIT Solan School of Management.
 ## 21 / 09 / 2021
 * Palindrome Linked List problem.
