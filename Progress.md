@@ -68,8 +68,8 @@
 * Studied about [Structures](https://github.com/cleanhand/phase-1-kartikjain2001/blob/main/Linked%20List/Structures.md) in C.
 * Discussed about [Memory Allocation](https://github.com/cleanhand/phase-1-kartikjain2001/blob/main/Static%20Memory%20Allocation%20and%20Dynamic%20Memory%20Allocation.md).
 ## 10 / 09 / 2021
-* Learnt about **[Static and Dynamic Memory Allocation](https://github.com/cleanhand/phase-1-kartikjain2001/blob/main/Static%20Memory%20Allocation%20and%20Dynamic%20Memory%20Allocation.md)**, library function **malloc()**
-* Read documents on calloc() and realloc functions.
+* Learnt about **[Static and Dynamic Memory Allocation](https://github.com/cleanhand/phase-1-kartikjain2001/blob/main/Static%20Memory%20Allocation%20and%20Dynamic%20Memory%20Allocation.md)**, library function **[malloc()](https://github.com/cleanhand/phase-1-kartikjain2001/blob/main/Linked%20List/Dynamic%20Memory%20Allocation%20functions.md)**
+* Read documents on [malloc , calloc() and realloc functions](https://github.com/cleanhand/phase-1-kartikjain2001/blob/main/Linked%20List/Dynamic%20Memory%20Allocation%20functions.md).
 * Learnt the [structure of a Linked List](https://github.com/cleanhand/phase-1-kartikjain2001/blob/main/Linked%20List/Structure%20of%20Linked%20List.md).
 ## 11 / 09 / 2021
 * Studied about library functions [malloc() , calloc() and realloc()](https://github.com/cleanhand/phase-1-kartikjain2001/blob/main/Linked%20List/Dynamic%20Memory%20Allocation%20functions.md).
