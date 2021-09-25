@@ -114,7 +114,9 @@
 ## 24 / 09 / 2021
 * Revising about loop in a linked list , detecting it and creating it.
 * A new concept in Linked List.
-
+## 25 / 09 / 2021
+* Write codes and algorithm for Inserting nodes in a linked list in the [beginning](https://github.com/cleanhand/phase-1-kartikjain2001/blob/main/Linked%20List/Inserting%20Nodes%20in%20the%20beginning%20in%20a%20Linked%20List.c) , [end](https://github.com/cleanhand/phase-1-kartikjain2001/blob/main/Linked%20List/Inserting%20a%20node%20in%20the%20end%20in%20a%20Linked%20List.c) and in the [middle](https://github.com/cleanhand/phase-1-kartikjain2001/blob/main/Linked%20List/Inserting%20a%20node%20in%20between%20two%20nodes%20in%20a%20Linked%20List.c).
+* Read about library functions **[realloc()](https://github.com/cleanhand/phase-1-kartikjain2001/blob/main/Linked%20List/Dynamic%20Memory%20Allocation%20functions.md)** , **free()** used in dynamic memory allocation.
 
 
 
