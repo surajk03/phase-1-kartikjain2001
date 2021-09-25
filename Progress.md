@@ -106,7 +106,7 @@
 * [Reversing an array , rotation of an array](https://github.com/cleanhand/phase-1-kartikjain2001/blob/main/Array/Rotation%20of%20an%20array%20by%20'k'%20times%20.c).
 * Reversing a Linked List.
 ## 22 / 09 / 2021
-* Discussion on Palindrom Linked List problem.
+* Discussion on Palindrome Linked List problem.
 ## 23 / 09 / 2021
 * Learnt about fast and slow pointers , reversing a Linked List.
 * Floyd Algorithm for detecting a loop in a linked list.
