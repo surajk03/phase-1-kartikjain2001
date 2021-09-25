@@ -109,7 +109,7 @@
 * Discussion on Palindrome Linked List problem.
 ## 23 / 09 / 2021
 * Learnt about fast and slow pointers , reversing a Linked List.
-* Floyd Algorithm for detecting a loop in a linked list.
+* [Floyd Algorithm](https://www.codingninjas.com/blog/2020/09/09/floyds-cycle-detection-algorithm/) for detecting a loop in a linked list.
 * An Interactive Session with Ankur Raj Sir on Open Source and GitHub.
 ## 24 / 09 / 2021
 * Revising about loop in a linked list , detecting it and creating it.
