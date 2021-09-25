@@ -119,6 +119,98 @@ void main()
 
 }
 ```
+🌟**Realloc()**
+
+**Realloc()** or **Resize Memory Block** is another library function and is used to change the size of an already dynamically allocated memory block.
+
+🔴 Realloc function can allocate memory in any type depending on the function used previously to allocate memory. 
+> For e.g. - If the memory was allocated using **'malloc()'** function previously , it will allocate a new single block of memory of new size defined by the programmer and if the memory was allocated using **'calloc()'** function , it will allocate specified number of blocks re - defined by the programmer.
+
+### Syntax of realloc()
+
+```
+int* ptr;
+ptr = (typecast* )malloc(sizeof(type) * n);
+int ptr_new;
+(typecast* )realloc(ptr , sizeof(type) * n);
+```
+*or*
+```
+int* ptr;
+ptr = (typecast* )calloc(n , sizeof(type));
+int ptr_new;
+(typecast* )realloc(ptr , sizeof(type) * n);
+
+```
+### Understanding the syntax
+The terms used in the syntax of realloc function have the same implication as used in the previous functions. 
+
+The visible difference is the use of memory allocation two times . One , when we allocate memory dynamically for the first time using malloc / calloc function and the second time , when we use realloc function to resize the memory blocks.
+
+### Resizing Dynamically Allocated Memory and inserting data
+
+```
+//Resizing for a memory allocated using malloc function
+ 
+#include<stdio.h>
+#include<stdlib.h>
+
+void main()
+{
+ int* ptr;
+ ptr = (int* )malloc(sizeof(int) * 3);
+ int i;
+ 
+ for(i = 0 ; i <= 2 ; i++)
+ {
+     *(ptr + i) = 2 + i;
+ }
+ for (i = 0 ; i <= 2 ; i++)
+ {
+     printf ("%d ", *(ptr + i));
+ }
+ printf ("\n");
+ 
+ int* ptr_new;
+ 
+ ptr_new = (int* )realloc(ptr , sizeof(int) * 4);
+ *(ptr_new +3) = 13;
+ for (i = 0 ; i <= 3 ; i++)
+ {
+     printf ("%d ", *(ptr_new + i));
+ }
+ printf ("\n");
+ 
+ //Resizing for a memory allocated using calloc function
+ 
+ 
+ ptr = (int* )calloc(3 , sizeof(int));
+
+ 
+ for(i = 0 ; i <= 2 ; i++)
+ {
+     *(ptr + i) = 2 + i;
+ }
+ for (i = 0 ; i <= 2 ; i++)
+ {
+     printf ("%d ", *(ptr + i));
+ }
+ printf ("\n");
+ 
+ 
+ 
+ ptr_new = (int* )realloc(ptr ,  sizeof(int) * 4);
+ *(ptr_new +3) = 13;
+ for (i = 0 ; i <= 3 ; i++)
+ {
+     printf ("%d ", *(ptr_new + i));
+ }
+ 
+ 
+ 
+ 
+}
+```
 
 
 
