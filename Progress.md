@@ -103,8 +103,17 @@
 * Attended a session on **Career Abroad** by **Mr. Sumit Sharma** NIT Agartala Alumni and MBA from MIT Solan School of Management.
 ## 21 / 09 / 2021
 * Palindrome Linked List problem.
-* Reversing an array , [rotation of an array](https://github.com/cleanhand/phase-1-kartikjain2001/blob/main/Array/Rotation%20of%20an%20array%20by%20'k'%20times%20.c).
+* [Reversing an array , rotation of an array](https://github.com/cleanhand/phase-1-kartikjain2001/blob/main/Array/Rotation%20of%20an%20array%20by%20'k'%20times%20.c).
 * Reversing a Linked List.
+## 22 / 09 / 2021
+* Discussion on Palindrom Linked List problem.
+## 23 / 09 / 2021
+* Learnt about fast and slow pointers , reversing a Linked List.
+* Floyd Algorithm for detecting a loop in a linked list.
+* An Interactive Session with Ankur Raj Sir on Open Source and GitHub.
+## 24 / 09 / 2021
+* Revising about loop in a linked list , detecting it and creating it.
+* A new concept in Linked List.
 
 
 
