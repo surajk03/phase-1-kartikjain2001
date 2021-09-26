@@ -119,6 +119,7 @@
 * Read about library functions **[realloc()](https://github.com/cleanhand/phase-1-kartikjain2001/blob/main/Linked%20List/Dynamic%20Memory%20Allocation%20functions.md)** , **free()** used in dynamic memory allocation.
 ## 26 / 09 / 2021
 * Wrote algorithms for Deleting Nodes in the beginning , end and in the middle of a Linked List.
+* Wrote algorithm for reversing a Linked List using three pointers.
 
 
 
