@@ -124,6 +124,7 @@
 ## 27 / 09 / 2021
 * Wrote algorithm for determining if a Linked List is a Palindrome or not.
 * Write code for [Reversing a Linked List](https://github.com/cleanhand/phase-1-kartikjain2001/blob/main/Linked%20List/Reversing%20a%20Linked%20List.c)
+* Write a code for detecting if a [Linked List is a Palindrome or not](https://github.com/cleanhand/phase-1-kartikjain2001/blob/main/Linked%20List/detecting%20for%20a%20Palindrome%20Linked%20List(need%20to%20be%20edited).c).
 
 
 
