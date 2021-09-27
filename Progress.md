@@ -121,6 +121,9 @@
 * Wrote algorithms for Deleting Nodes in the beginning , end and in the middle of a Linked List.
 * Wrote algorithm for reversing a Linked List using three pointers.
 * Studied more about the **Floyd Algorith for Loop Detection**.
+## 27 / 09 / 2021
+* Wrote algorithm for determining if a Linked List is a Palindrome or not.
+
 
 
 
