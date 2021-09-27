@@ -123,7 +123,7 @@
 * Studied more about the **Floyd Algorith for Loop Detection**.
 ## 27 / 09 / 2021
 * Wrote algorithm for determining if a Linked List is a Palindrome or not.
-
+* Write code for [Reversing a Linked List](https://github.com/cleanhand/phase-1-kartikjain2001/blob/main/Linked%20List/Reversing%20a%20Linked%20List.c)
 
 
 
