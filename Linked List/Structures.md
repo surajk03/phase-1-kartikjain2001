@@ -20,7 +20,7 @@ struct student
   float marks;
 };
 ```
-Now we have created a data type **'struct student'** and we can assign a variable to it and store information of that variable in structstudent data type.
+Now we have created a data type **'struct student'** and we can assign a variable to it and store information of that variable in **'struct student'** data type.
 
     struct student student1;
 We can now fill the information for sachin and access them using struct student data type.
@@ -53,8 +53,8 @@ void main()
 ```
 we can also declare a pointer and use it to point to variables
 ```
-struct student* ptr;                      /*declaring a pointer varaible 'ptr' or type 'struct student'*/
-ptr = &student1;                          /* ptr now stores the address of variable &student1 or points to the variable student1*/
+struct student* ptr;                      /*declaring a pointer varaible 'ptr' of type 'struct student'*/
+ptr = &student1;                          /* ptr now stores the address of variable student1 or points to the variable student1*/
 
 /*now we can access the members of the variavle student1 using arrow operator '->'*/
 
