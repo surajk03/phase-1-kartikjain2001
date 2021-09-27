@@ -119,8 +119,8 @@
 * Read about library functions **[realloc()](https://github.com/cleanhand/phase-1-kartikjain2001/blob/main/Linked%20List/Dynamic%20Memory%20Allocation%20functions.md)** , **free()** used in dynamic memory allocation.
 ## 26 / 09 / 2021
 * Wrote algorithms for Deleting Nodes in the beginning , end and in the middle of a Linked List.
-* Wrote algorithm for reversing a Linked List using three pointers.
-* Studied more about the **Floyd Algorith for Loop Detection**.
+* Wrote [algorithm for reversing a Linked List using three pointers](https://github.com/cleanhand/phase-1-kartikjain2001/blob/main/Linked%20List/Reversing%20a%20Linked%20List.md).
+* Studied more about the **[Floyd Algorith for Loop Detection](https://en.wikipedia.org/wiki/Cycle_detection)**.
 ## 27 / 09 / 2021
 * Wrote algorithm for determining if a Linked List is a Palindrome or not.
 * Write code for [Reversing a Linked List](https://github.com/cleanhand/phase-1-kartikjain2001/blob/main/Linked%20List/Reversing%20a%20Linked%20List.c)
