@@ -97,5 +97,12 @@ void main()
     printf ("%d", count);
     }
     }
- 
+ for (row = 0 ; row <= 3 ; row++)
+    {
+        for (column = 0 ; column <= 3 ; column++)
+        {
+            printf ("%d ", field[row][column]);
+        }
+        printf ("\n");
+    }
 }
