@@ -13,6 +13,8 @@
 * As the coordinates mentioned by the user now have mines , change their square's value from 1 to 2.
 * Print the updated minefield.
 
+**The code for the first part is given in [here](https://github.com/cleanhand/phase-1-kartikjain2001/blob/main/Minesweeper/Stage%20-%201.c).**
+
 
 
 # Second part 📊
@@ -30,6 +32,7 @@
 * Count the number of mines in the specified squares.
 * Print the number of squares as output in the end.
 
+**The code for the both first and second part is [here](https://github.com/cleanhand/phase-1-kartikjain2001/blob/main/Minesweeper/Stage%20-%201.c).**
 
 ![minesweeper game1](https://user-images.githubusercontent.com/74143496/136357931-f99e4308-864b-41e1-826e-9081c35d9fc4.jpg)
 
