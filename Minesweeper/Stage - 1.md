@@ -1,4 +1,4 @@
-# First task 📊
+# First part 📊
 
 ## Objectives 🧮
 1. Create a mine field
@@ -14,7 +14,26 @@
 * Print the updated minefield.
 
 
+
+# Second part 📊
+
+## Objectives 🧮
+1. To implement the **Detect Row command**.
+2. To print the number of mines present in a certain rown in a specified number of squares by a series of commands.
+
+## Steps 💹
+* Take four commands from the user in the form of four integers as '1 2 1 0'.
+  * The first integer shows the command type , if it is **'1'** that means the detect row command is in action.
+  * Second integer specifies the row in which the squares are to be scanned.
+  * The thrd integer specifies the first column from where the scanning should begin.
+  * The fourth integer specifies the number of squares from the above mentioned column to be scanned.
+* Count the number of mines in the specified squares.
+* Print the number of squares as output in the end.
+
+
 ![minesweeper game1](https://user-images.githubusercontent.com/74143496/136357931-f99e4308-864b-41e1-826e-9081c35d9fc4.jpg)
+
+
 
 
 
