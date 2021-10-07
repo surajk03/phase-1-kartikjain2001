@@ -45,7 +45,7 @@ void main()
 {
     int field[4][4] = {1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1};
     int row , column , n_o_mines, i , j;
-    int detect_row , n_o_squares; 
+    int command_type , n_o_squares; 
     int count = 0;
     
     
@@ -76,8 +76,12 @@ void main()
         printf ("\n");
     }
     printf("Enter your command in the form of four integers: ");
-    scanf ("%d %d %d %d" , &detect_row , &row , &column , &n_o_squares);
-    printf ("For the given set of commands , the number of mine sin the field is ");
+    scanf ("%d %d %d %d" , &command_type , &row , &column , &n_o_squares);
+
+    if (command_type == 1)
+    {
+        if (row <=3 && column <= 3 && column + n_o_squares <= 4)
+        {
     for (j = column ; j <= column + n_o_squares - 1 ; j++)
     {
         
@@ -89,7 +93,9 @@ void main()
         
         
     }
+    printf ("For the given set of commands , the number of mine sin the field is ");
     printf ("%d", count);
+    }
+    }
  
 }
-
