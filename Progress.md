@@ -129,6 +129,13 @@
 ## 07 / 10 / 2021
 * Studied about the [Minesweeper project](https://ankitkeshavdbg.github.io/MineSweeper/).
 * Completed the [Stage - 1](https://github.com/cleanhand/phase-1-kartikjain2001/blob/main/Minesweeper/Stage%20-%201.md) for the minesweeper project.
+## 08 / 10 / 2021
+* Studied about traversing in a 2-D array in different ways.
+  * Linear Traversing
+  * Spiral Traversing
+  * Wave Traversing
+  * Diagonal Traversing
+* Studied about Stage - 2 for the minesweeper project
 
 
 
