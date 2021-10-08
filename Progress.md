@@ -135,7 +135,7 @@
   * Spiral Traversing
   * Wave Traversing
   * Diagonal Traversing
-* Studied about Stage - 2 for the minesweeper project
+* Studied about [Stage - 2](https://github.com/cleanhand/phase-1-kartikjain2001/blob/main/Minesweeper/Stage%20-2.md) for the minesweeper project
 
 
 
