@@ -9,18 +9,18 @@ void main()
    
    while(col != 4)
    {
-       if(col % 2 == 0)
+       if(col % 2 == 0) // col is even
        {
-           for (i = 0 ; i <= 3 ; i++)
+           for (i = 0 ; i <= 3 ; i++) // traversing down the rows for that column
            {
                printf ("%d ", a[i][col]);
            }
            
        }
         
-       if (col % 2 == 1)
+       if (col % 2 == 1) // col is odd
        {
-           for (i = 3 ; i >= 0 ; i--)
+           for (i = 3 ; i >= 0 ; i--) // traversing up the rows for that column
            {
                printf ("%d ", a[i][col]);
            }
