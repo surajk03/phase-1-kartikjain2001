@@ -27,5 +27,5 @@ We will take use of 4 variable to keep track of the direction of traversing and 
 
 ## Code
 
-A simple code for traversing in a 2-D array is given here.
-> A more general form of the code will be given shortly.
+A simple code for traversing in a 2-D array is given [here](https://github.com/cleanhand/phase-1-kartikjain2001/blob/main/Array/Traversing%20in%20a%202-D%20array/Spiral%20Traversing.c).
+> *A more general form of the code will be given shortly.*
