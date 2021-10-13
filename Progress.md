@@ -141,7 +141,10 @@
   * [Spiral Traversing](https://github.com/cleanhand/phase-1-kartikjain2001/blob/main/Array/Traversing%20in%20a%202-D%20array/Spiral%20Traversing.md)
   * [Wave Traversing](https://github.com/cleanhand/phase-1-kartikjain2001/blob/main/Array/Traversing%20in%20a%202-D%20array/Wave%20Traversing.md)
 ## 13 / 10 / 2021
-* Discussion on Sorting a Linked List.
+* Discussion on Sorting a Linked List using Bubble Sort.
+* Discussion on Sorting a Linked List using Selection Sort.
+
+
 
 
 
