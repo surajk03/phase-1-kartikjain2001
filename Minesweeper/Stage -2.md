@@ -20,4 +20,6 @@ This command is specified by the number '**2**' followed by the row , column , s
 
 The following square represents the boundary of the square grid of length 5 for the element 3,3.
 We need to find all the mines in that boundary.
+
+The code for the first part is [here](https://github.com/cleanhand/phase-1-kartikjain2001/blob/main/Minesweeper/Stage%20-%202.c)
   
