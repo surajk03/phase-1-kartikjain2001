@@ -124,7 +124,7 @@ void detect_square(int field[4][4] , int* row , int* column , int* n_o_squares)
         row_e -= 1; // row_e is updated so that we stop in the inner loop only
         col_e -= 1; //col_e is updated so that we stop in the inner loop only
         }
-        printf ("%d", count);
+        printf ("The number of mines in the specified square grid is %d\n", count);
 }
 
 void main()
@@ -150,6 +150,7 @@ void main()
     if(command_type == 2)
     {
         detect_square(field , &row , &column , &n_o_squares);
+        display_minefield(field);
     }
  
 }
