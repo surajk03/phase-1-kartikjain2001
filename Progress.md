@@ -143,6 +143,10 @@
 ## 13 / 10 / 2021
 * Discussion on Sorting a Linked List using Bubble Sort.
 * Discussion on Sorting a Linked List using Selection Sort.
+## 16 / 10 / 2021
+* Studied about the Stage - 2 of the [Minesweeper project](https://ankitkeshavdbg.github.io/MineSweeper/)
+## 17 / 10 / 2021
+* Completed the [first part of Stage - 2](https://github.com/cleanhand/phase-1-kartikjain2001/blob/main/Minesweeper/Stage%20-2.md).
 
 
 
