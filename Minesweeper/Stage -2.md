@@ -14,9 +14,9 @@ This command is specified by the number '**2**' followed by the row , column , s
  🔴*The size has to be a positive odd integer only.*
  
  
+ ![minesweeper photo1](https://user-images.githubusercontent.com/74143496/137640716-04642fde-c97f-4631-b072-6b04e059bdf1.png)
+
  
- 
-<img width="136" alt="minesweeper stage 2 part 1" src="https://user-images.githubusercontent.com/74143496/137595603-ef9249da-9f9f-414a-a3d8-c09e1f1de57e.png">
 
 The following square represents the boundary of the square grid of length 5 for the element 3,3.
 We need to find all the mines in that boundary.
