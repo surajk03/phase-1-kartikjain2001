@@ -147,7 +147,9 @@
 * Studied about the Stage - 2 of the [Minesweeper project](https://ankitkeshavdbg.github.io/MineSweeper/)
 ## 17 / 10 / 2021
 * Completed the [first part of Stage - 2](https://github.com/cleanhand/phase-1-kartikjain2001/blob/main/Minesweeper/Stage%20-2.md).
-
+## 18 / 10 / 2021
+* Studied [research papers on Minesweeper](https://github.com/cleanhand/phase-1-kartikjain2001/blob/main/Minesweeper/Understanding%20Minesweeper%20Game.md).
+* Revised concepts of [Structures](https://github.com/cleanhand/phase-1-kartikjain2001/blob/main/Linked%20List/Structures.md) and [Dynamic Memory Allocation](https://github.com/cleanhand/phase-1-kartikjain2001/blob/main/Linked%20List/Dynamic%20Memory%20Allocation%20functions.md).
 
 
 
