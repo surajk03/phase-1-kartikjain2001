@@ -151,6 +151,9 @@
 * Studied [research papers on Minesweeper](https://github.com/cleanhand/phase-1-kartikjain2001/blob/main/Minesweeper/Understanding%20Minesweeper%20Game.md).
 * Revised concepts of [Structures](https://github.com/cleanhand/phase-1-kartikjain2001/blob/main/Linked%20List/Structures.md) and [Dynamic Memory Allocation](https://github.com/cleanhand/phase-1-kartikjain2001/blob/main/Linked%20List/Dynamic%20Memory%20Allocation%20functions.md).
 
+## 19 / 10 / 2021
+* Studied about Hashing
+* Studied about 2 - D array traversing.
 
 
 
