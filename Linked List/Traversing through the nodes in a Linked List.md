@@ -1,45 +1,20 @@
-```
-#include <stdio.h>
-#include <stdlib.h>
+# Topic
 
-struct node
-{
-  int data;
-  struct node *next;
-};
+Traversing through the nodes in a Linked List
 
-void main ()
-{
-  struct node *head = NULL;
-  struct node *temp = NULL;
-  struct node *temp1 = NULL;
-  struct node *temp2 = NULL;
+# Approach
 
-  struct node *run = NULL;
+* First of all , create a singly linked list with multiple nodes , the first node's addressed being stored in a pointer namely , *head*.
+* Now , we will declare a function which when called , take the *head* pointer as arguement and use it as *run* pointer of type *struct node* *.
+* This run pointer will start printing run -> data and for traversing , we will use condition as
 
-  temp = (struct node *) malloc (sizeof (struct node));
-  temp1 = (struct node *) malloc (sizeof (struct node));
-  temp2 = (struct node *) malloc (sizeof (struct node));
-  run = (struct node *) malloc (sizeof (struct node));
+~~~
+run = run -> next;
+~~~
 
-  temp->data = 10;
-  temp->next = temp1;
-  head = temp;
+A simple code for traversing through the nodes in a linked list is given [here](https://github.com/cleanhand/phase-1-kartikjain2001/blob/main/Linked%20List/Traversing%20through%20the%20nodes%20in%20a%20Linked%20List.c).
 
-  temp1->data = 12;
-  temp1->next = temp2;
 
-  temp2->data = 22;
-  temp2->next = NULL;
 
-  run->next = head;
-
-  while (run != NULL)
-    {
-      run = run->next;
-      printf ("%d\n", run->data);
-    }
-}
-```
 
 
