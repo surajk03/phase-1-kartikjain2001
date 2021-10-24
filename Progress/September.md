@@ -1,3 +1,5 @@
+# Daliy Progress ![9](https://user-images.githubusercontent.com/74143496/129934373-dd5b001f-01ab-40c3-8637-846576f37738.jpg)
+
 ## 01 / 09 / 2021
 * Attended **Jakarta Toastmaster Club** on the theme **Self - Mastery** 
 ## 02 / 09 / 2021
