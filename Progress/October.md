@@ -33,7 +33,7 @@
 * Revised the basics of Linked List and Dynamic Memory Allocation.
 * Studied about the Minesweeper Project.
 ## 24 / 10 / 2021
-* Tried writting algorithms for different Linked List problems.
+* Tried writting algorithms for different [Linked List problems](https://github.com/cleanhand/phase-1-kartikjain2001/tree/main/Linked%20List).
 * Completed my 30 Day Google Cloud Program.
 * Studied about [Continous Area Sweeping in Robots](https://www.cs.utexas.edu/~pstone/Papers/bib2html-links/ICAR05.pdf).
 * Maintained my Github Repository.
