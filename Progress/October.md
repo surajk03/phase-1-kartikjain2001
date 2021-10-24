@@ -28,3 +28,12 @@
 ## 19 / 10 / 2021
 * Studied about Hashing
 * Studied about 2 - D array traversing.
+
+## 23 / 10 / 2021
+* Revised the basics of Linked List and Dynamic Memory Allocation.
+* Studied about the Minesweeper Project.
+## 24 / 10 / 2021
+* Tried writting algorithms for different Linked List problems.
+* Completed my 30 Day Google Cloud Program.
+* Studied about [Continous Area Sweeping in Robots](https://www.cs.utexas.edu/~pstone/Papers/bib2html-links/ICAR05.pdf).
+* Maintained my Github Repository.
