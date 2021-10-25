@@ -32,4 +32,7 @@ while (fast != NULL || slow != NULL)
 
 ~~~
 
+## Code 💻
+
+The solution code for the problem is given [here](https://github.com/cleanhand/phase-1-kartikjain2001/blob/main/Linked%20List/Detecting%20a%20Loop%20in%20a%20LInked%20List.c)
 
