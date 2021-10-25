@@ -25,3 +25,7 @@ we will simply break the node and point it to NULL.
 fast -> next = NULL;
 ~~~
 In this way , the loop is removed in the Linked List.
+
+## Code 💻
+
+The solution code for the problem is given [here](https://github.com/cleanhand/phase-1-kartikjain2001/blob/main/Linked%20List/Linked%20List%20problems%20code/Removing%20a%20loop%20in%20a%20Linked%20list.c)
