@@ -12,7 +12,7 @@ Traversing through the nodes in a Linked List
 run = run -> next;
 ~~~
 
-A simple code for traversing through the nodes in a linked list is given [here](https://github.com/cleanhand/phase-1-kartikjain2001/blob/main/Linked%20List/Traversing%20through%20the%20nodes%20in%20a%20Linked%20List.c).
+A simple code for traversing through the nodes in a linked list is given [here](https://github.com/cleanhand/phase-1-kartikjain2001/blob/main/Linked%20List/Linked%20List%20problems%20code/Traversing%20through%20the%20nodes%20in%20a%20Linked%20List.c).
 
 
 
