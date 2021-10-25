@@ -26,4 +26,4 @@ So , all the three pointers mentioned will be used as follows
 
 
 # Code 🖥️
-A simple code for Reversing a Linked List is written by me [here](https://github.com/cleanhand/phase-1-kartikjain2001/blob/main/Linked%20List/Reversing%20a%20Linked%20List.c)
+A simple code for Reversing a Linked List is written by me [here](https://github.com/cleanhand/phase-1-kartikjain2001/blob/main/Linked%20List/Linked%20List%20problems%20code/Reversing%20a%20Linked%20List.c)
