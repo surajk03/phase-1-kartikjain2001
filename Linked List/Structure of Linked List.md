@@ -38,39 +38,7 @@ struct node
 * Store the address of next node in each node's next.
 * Make sure to link the last node's next to NULL and store address of first node in head. This will mark the ending and beginning of the Linked List respectively.
 
-## A simple Code to create a Linked List of 3 nodes 🖥️
+## Code 🖥️
 
-```
-#include <stdio.h>
-#include <stdlib.h> /* is included because malloc is a library function and will show warning if this is not included */
-struct node
-{
-    int data;
-    struct node* next;
-};
+A simple code for creating a linked list is given [here](https://github.com/cleanhand/phase-1-kartikjain2001/blob/main/Linked%20List/Linked%20List%20problems%20code/Structure%20of%20Linked%20List.c)
 
-void main ()
-{
-    struct node* head = NULL;
-    struct node* temp = NULL;
-    struct node* temp1 = NULL;
-    struct node* temp2 = NULL;
-    
-    temp = (struct node*)malloc(sizeof(struct node));
-    temp1 = (struct node* )malloc(sizeof(struct node));
-    temp2 = (struct node* )malloc(sizeof(struct node));
-    
-    temp -> data = 10;
-    temp -> next = temp1;
-    head = temp;
-    temp1 -> data = 14;
-    temp1 -> next = temp2;
-    temp2 -> data = 22;
-    temp2 -> next = NULL;
-    
-    printf("Value stored in data of node1 is '%d' and the data field 'next' stores '%d' which is the address of next node linking them.\n", temp -> data , temp -> next);
-    printf ("Value stored in data of node2 is '%d' and the data field 'next' stores '%d' which is the address of next node linking them.\n", temp1 -> data , temp1 -> next);
-    printf ("Value stored in data of node3 is '%d' and the data field 'next' stores '%d' which marks the end of the linked list", temp2 -> data , temp2 -> next);
-    
-}
-```
