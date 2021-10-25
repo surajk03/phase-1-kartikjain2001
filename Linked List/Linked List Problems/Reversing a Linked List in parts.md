@@ -51,6 +51,6 @@ Using this code snippet , the remaining elements will be reverse separately.
 
 ## Code
 
-The code for the given problem will be updated here.
+The code for the given problem will be updated [here](https://github.com/cleanhand/phase-1-kartikjain2001/blob/main/Linked%20List/Linked%20List%20problems%20code/Reversing%20a%20Linked%20List%20in%20parts.c).
 
 
